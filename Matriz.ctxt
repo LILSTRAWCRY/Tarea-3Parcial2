@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Matriz
+comment1.params=tamanio
+comment1.target=int[][]\ CrearMatriz(int)
+comment2.params=matriz
+comment2.target=void\ RecorridoCaracol(int[][])
+comment3.params=matriz
+comment3.target=void\ RecorridoeSpiral(int[][])
+comment4.params=matriz
+comment4.target=void\ imprimir(int[][])
+comment5.params=matriz
+comment5.target=void\ Diagonales(int[][])
+numComments=6
